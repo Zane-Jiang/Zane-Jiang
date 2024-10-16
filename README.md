@@ -1,19 +1,20 @@
 ### Zane-Jiang
 
-<a href="https://Zane-Jiang.github.io">blog</a>
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcom+to+my+github+page!)](https://git.io/typing-svg)
 
-#### Recently learning
+- I earned my undergraduate degree at *Nanjing Normal University* and am currently pursuing a Master's in Computer Technology at *Chongqing University* (expected to graduate in *2027.07*).
 
-<div style="display: flex">
-<img src="https://img.shields.io/badge/-typescript-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white" style="margin-right: 0.25rem"/>
+- I worked for a year at a company specializing in the development of LED screen control systems as a C++ software development engineer.
 
-<img src="https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" style="margin-right: 0.25rem"/>
+- Currently working on *Storage System*, focusing on *Compute Express Link(CXL)*  .
 
-<img src="https://img.shields.io/badge/vue-brightgreen.svg?style=for-the-badge&logo=vue.js&logoColor=white" style="margin-right: 0.25rem"/>
-
-<img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+  <a href="https://Zane-Jiang.github.io">blog</a>
 
 </div>
+
+<img src="https://img.shields.io/badge/RTFSC-Read The F**k Source Code!-blue"/>
+
+<img src="https://img.shields.io/badge/RTFZ-Read The F**k Zeal! -blue"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zane-Jiang&show_icons=true&count_private=true&hide_border=true" align="left" style="margin-right: 0.5rem;" />
 
