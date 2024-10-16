@@ -1,16 +1,23 @@
-## Hi there 👋
+### Zane-Jiang
 
-<!--
-**Zane-Jiang/Zane-Jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://Zane-Jiang.github.io">blog</a>
 
-Here are some ideas to get you started:
+#### Recently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex">
+<img src="https://img.shields.io/badge/-typescript-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/vue-brightgreen.svg?style=for-the-badge&logo=vue.js&logoColor=white" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zane-Jiang&show_icons=true&count_private=true&hide_border=true" align="left" style="margin-right: 0.5rem;" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zane-Jiang&hide_border=true&layout=compact" align="left" />
+
+
+
