@@ -1,4 +1,3 @@
-## Zane-Jiang
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcom+to+my+github+page!)](https://git.io/typing-svg)
 
