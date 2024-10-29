@@ -18,7 +18,7 @@
 
 
 ## Status
-<img src="https://github-readme-stats.vercel.app/api?username=Zane-Jiang&show_icons=true&count_private=true&hide_border=true" align="left" style="margin-right: 0.5rem;" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Zane-Jiang&show_icons=true&count_private=true&hide_border=true" align="left" style="margin-right: 0.5rem;" />  -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zane-Jiang&hide_border=true&layout=compact" align="left" />
 
