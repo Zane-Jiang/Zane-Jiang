@@ -5,7 +5,7 @@
 
 - I worked for a year at a company specializing in the development of LED screen control systems as a C++ software development engineer.
 
-- Currently working on *Storage System*, focusing on *Compute Express Link(CXL)*  .
+<!-- - Currently working on *Storage System*, focusing on *Compute Express Link(CXL)*  . -->
 
 
 
