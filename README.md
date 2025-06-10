@@ -3,7 +3,7 @@
 <!-- 
 - I earned my undergraduate degree at *Nanjing Normal University* and am currently pursuing a Master's in Computer Technology at *Chongqing University* (expected to graduate in *2027.07*).
 
-- I worked for a year at a company specializing in the development of LED screen control systems as a C++ software development engineer.
+<!-- - I worked for a year at a company specializing in the development of LED screen control systems as a C++ software development engineer. -->
 
 <!-- - Currently working on *Storage System*, focusing on *Compute Express Link(CXL)*  . -->
 
@@ -22,5 +22,5 @@
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zane-Jiang&hide_border=true&layout=compact" align="left" />
 
- --> -->
+ --> 
 
